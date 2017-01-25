@@ -1,0 +1,89 @@
+%%
+%% This is file `cvtest.tex',
+%% generated with the docstrip utility.
+%%
+%% The original source files were:
+%%
+%% currvita.dtx  (with options: `testfile')
+%% 
+%% LaTeX sample file for the currvita package
+%% 
+%% Copyright (C) 1999 Axel Reichert
+%% See the files README and COPYING.
+%% 
+%% \CharacterTable
+%%   {Upper-case    \A\B\C\D\E\F\G\H\I\J\K\L\M\N\O\P\Q\R\S\T\U\V\W\X\Y\Z
+%%   Lower-case    \a\b\c\d\e\f\g\h\i\j\k\l\m\n\o\p\q\r\s\t\u\v\w\x\y\z
+%%   Digits        \0\1\2\3\4\5\6\7\8\9
+%%   Exclamation   \!     Double quote  \"     Hash (number) \#
+%%   Dollar        \$     Percent       \%     Ampersand     \&
+%%   Acute accent  \'     Left paren    \(     Right paren   \)
+%%   Asterisk      \*     Plus          \+     Comma         \,
+%%   Minus         \-     Point         \.     Solidus       \/
+%%   Colon         \:     Semicolon     \;     Less than     \<
+%%   Equals        \=     Greater than  \>     Question mark \?
+%%   Commercial at \@     Left bracket  \[     Backslash     \\
+%%   Right bracket \]     Circumflex    \^     Underscore    \_
+%%   Grave accent  \`     Left brace    \{     Vertical bar  \|
+%%   Right brace   \}     Tilde         \~}
+\documentclass[12pt,a4paper]{article}
+\usepackage[german]{babel}
+\usepackage[usenames, dvipsnames]{color}
+\usepackage[none]{hyphenat}
+
+\definecolor{mygray}{gray}{0.9}
+
+\usepackage{currvita}
+\newcommand*{\ac}[1]{\mbox{#1}}
+\tolerance=600
+\begin{document}
+\begin{cv}{Curriculum Vitae}
+  \begin{cvlist}{}
+  \item \colorbox{mygray} {Giacomo Vagni}\\
+  \emph{PhD Student in Sociology \textcolor{Gray}{(DPhil)}}
+  
+    \textcolor{Orange} {Centre for Time Use Research} \\
+    \textcolor{Blue}{Department of Sociology, University of Oxford} 
+    \item Nuffield College \\ 
+    1 New Rd, Oxford OX1 1NF, United Kingdom
+  \item Tel.:~(0044)~1865\,284464\\
+    E"~Mail:~giacomo.vagni @ sociology.ox.ac.uk
+  \item http://www.timeuse.org/team/Vagni \\
+  \end{cvlist}
+  
+  \begin{cvlist}{Research Interests}
+  \item[] Time Use. Families. Stratification. \\  Sequence Analysis. Computational Social Science. \\ High Performance Computing. 
+  \end{cvlist}
+  
+  \begin{cvlist}{Education}
+  \item[2015--current] DPhil Student in Sociology. \\ University of Oxford. Nuffield College. 
+  \item[2012-2014] MA in Sociology. University of Geneva. 
+  \item[2014] Boston University (Exchange program). 
+  \item[2008-2011] BA in Sociology \& Anthropology. \\ Universit{\'e} Libre de Bruxelles. 
+  \end{cvlist}
+ 
+  
+  \begin{cvlist}{Publications}
+  \footnotesize
+  	
+  \item [2016] Bolzman, C., \& Vagni, G. (2016). Forms of care among native Swiss and older migrants from Southern Europe: a comparison. \emph{Journal of Ethnic and Migration Studies}, 43(2), 250-269.
+  	  
+  \item [2015]
+  Bolzman, C., \& Vagni, G. (2015). ‪ {\'E}galit{\'e} de chances? Une comparaison des conditions de vie des personnes âgées immigrées et “nationales”‪. \emph{Hommes \& Migrations}, 1309, 19-28.
+  \end{cvlist}
+  
+  \begin{cvlist}{\ac{Expertise}}
+  \item[Languages] R (\emph{expert}), Rcpp, Python (\emph{intermediate}),  C++ (\emph{beginner}) 
+  \item[Tools] RStudio, Shiny, \ac{WEKA}, Ucinet, NetLogo, \ac{SPSS}, Stata \\ \LaTeX, Word, Excel, InDesign, \ac{VIM} \\ 
+ \ac{HTML},  MySQL,  Github \\ 
+ Experience in using ARCUS (Oxford Supercomputing facilities)
+  \end{cvlist}
+
+
+  \cvplace{Oxford}
+  \date{~January~2017}
+\end{cv}
+\end{document}
+\endinput
+%%
+%% End of file `cvtest.tex'.
