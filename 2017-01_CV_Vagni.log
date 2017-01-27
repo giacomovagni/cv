@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.15)  25 JAN 2017 14:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.15)  27 JAN 2017 14:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"2017-01-25 cv.tex"
-(./2017-01-25 cv.tex
+**2017-01_CV_Vagni.tex
+(./2017-01_CV_Vagni.tex
 LaTeX2e <2014/05/01>
 Babel <3.9k> and hyphenation patterns for 78 languages loaded.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/article.cls
@@ -80,8 +80,8 @@ Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 \cvlabelskip=\skip44
 \cvlabelwidth=\skip45
 )
-(./2017-01-25 cv.aux)
-\openout1 = `"2017-01-25 cv.aux"'.
+No file 2017-01_CV_Vagni.aux.
+\openout1 = `2017-01_CV_Vagni.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
 LaTeX Font Info:    ... okay on input line 39.
@@ -95,7 +95,6 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
 LaTeX Font Info:    ... okay on input line 39.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
 LaTeX Font Info:    ... okay on input line 39.
-
 (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count89
@@ -117,54 +116,41 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--52
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ™ in font cmr10!
-Missing character: There is no √ in font cmr10!
-Missing character: There is no ¢ in font cmr10!
-Missing character: There is no √ in font cmr10!
-Missing character: There is no © in font cmr10!
-Missing character: There is no √ in font cmr10!
-Missing character: There is no © in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ™ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no † in font cmr10!
 
-Overfull \hbox (2.45995pt too wide) in paragraph at lines 76--77
+Overfull \hbox (2.45995pt too wide) in paragraph at lines 78--79
 []\OT1/cmr/m/n/12 R (\OT1/cmr/m/it/12 ex-pert\OT1/cmr/m/n/12 ), Rcpp, Py-thon (
 \OT1/cmr/m/it/12 in-ter-me-dia-te\OT1/cmr/m/n/12 ), C++ (\OT1/cmr/m/it/12 be-gi
 n-ner\OT1/cmr/m/n/12 ) 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 77.
+(Font)              <12> on input line 79.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 77.
+(Font)              <8> on input line 79.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 77.
+(Font)              <6> on input line 79.
 [1
 
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] (./2017-01-25 cv.aux) ) 
+[2] (./2017-01_CV_Vagni.aux) ) 
 Here is how much of TeX's memory you used:
- 1780 strings out of 493117
- 23964 string characters out of 6135433
+ 1779 strings out of 493117
+ 23955 string characters out of 6135433
  88177 words of memory out of 5000000
- 5265 multiletter control sequences out of 15000+600000
+ 5266 multiletter control sequences out of 15000+600000
  7990 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 25i,5n,23p,242b,258s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2014/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmti10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmti12.pfb>
-Output written on "2017-01-25 cv.pdf" (2 pages, 84930 bytes).
+ 25i,5n,23p,239b,258s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2014/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmti10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmti12.pfb>
+Output written on 2017-01_CV_Vagni.pdf (2 pages, 85362 bytes).
 PDF statistics:
  35 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream
