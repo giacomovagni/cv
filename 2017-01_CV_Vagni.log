@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.15)  28 JAN 2017 20:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.15)  23 MAR 2017 12:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -244,6 +244,8 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 40.
 LaTeX Info: Redefining \pageref on input line 40.
 LaTeX Info: Redefining \nameref on input line 40.
+
+(./2017-01_CV_Vagni.out) (./2017-01_CV_Vagni.out)
 \@outlinefile=\write3
 \openout3 = `2017-01_CV_Vagni.out'.
 
@@ -285,51 +287,90 @@ Package babel Info: Redefining german shorthand "~
 [1
 
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 89.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 89.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 89.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 89.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 89.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 89.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 89.
+Overfull \hbox (0.45839pt too wide) in paragraph at lines 87--88
+[]\OT1/cmr/m/it/12 Inequality and Fa-mi-ly Ti-me\OT1/cmr/m/n/12 . Ti-me Use Sur
+-vey Me-tho-di-cal
+ []
 
+
+Overfull \hbox (9.2253pt too wide) in paragraph at lines 89--90
+[]\OT1/cmr/m/it/12 Family Ti-me and Stra-ti-fi-ca-ti-on\OT1/cmr/m/n/12 . In-e-q
+ua-li-ty Re-se-arch Group.
+ []
+
+
+Overfull \hbox (1.42372pt too wide) in paragraph at lines 91--92
+\OT1/cmr/m/n/12 As-so-cia-ti-on of Ti-me Use Re-se-arch Con-fe-rence 2016. Seou
+l,
+ []
+
+
+Overfull \hbox (15.12776pt too wide) in paragraph at lines 93--94
+\OT1/cmr/m/n/12 Fe-sti-val 2018. Ses-si-on: Ti-me Use Dia-ry Da-ta: Me-tho-do-l
+o-gi-cal
+ []
+
+
+Overfull \hbox (31.29073pt too wide) in paragraph at lines 97--98
+[]\OT1/cmr/m/it/12 Sharing day-light. Conjugal-parental-family ti-me in Swit-ze
+r-land.\OT1/cmr/m/n/12 .
+ []
+
+
+Overfull \hbox (36.7519pt too wide) in paragraph at lines 101--102
+[]\OT1/cmr/m/it/12 With whom do Swiss coup-les spend their Sa-tur-day?\OT1/cmr/
+m/n/12 . In-ter-na-tio-nal
+ []
+
+
+Overfull \hbox (5.34035pt too wide) in paragraph at lines 101--102
+\OT1/cmr/m/n/12 As-so-cia-ti-on of Ti-me Use Re-se-arch Con-fe-rence 2014. Tur-
+ku,
+ []
+
+
+Overfull \hbox (2.08066pt too wide) in paragraph at lines 103--104
+\OT1/cmr/m/n/12 in Sta-ti-stics for So-ci-al and Po-pu-la-ti-on Sciences. Uni-v
+er-si-ty
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 112.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 112.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 112.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 112.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 112.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 112.
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 89.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 112.
  (./2017-01_CV_Vagni.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 89.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 89.
-
-
-Package rerunfilecheck Warning: File `2017-01_CV_Vagni.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `2017-01_CV_Vagni.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 89.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 112.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 112.
+Package rerunfilecheck Info: File `2017-01_CV_Vagni.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 112.
  ) 
 Here is how much of TeX's memory you used:
- 5614 strings out of 493117
- 83036 string characters out of 6135433
- 175870 words of memory out of 5000000
+ 5618 strings out of 493117
+ 83120 string characters out of 6135433
+ 175974 words of memory out of 5000000
  9051 multiletter control sequences out of 15000+600000
  7990 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,5n,23p,239b,473s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,5n,23p,253b,473s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
 /usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
 sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/
 local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/l
 ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on 2017-01_CV_Vagni.pdf (2 pages, 85717 bytes).
+Output written on 2017-01_CV_Vagni.pdf (2 pages, 93656 bytes).
 PDF statistics:
  42 PDF objects out of 1000 (max. 8388607)
  31 compressed objects within 1 object stream
