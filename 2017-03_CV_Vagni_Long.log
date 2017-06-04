@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.15)  26 MAY 2017 11:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.15)  4 JUN 2017 22:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -202,20 +202,20 @@ Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 (./2017-03_CV_Vagni_Long.aux)
 \openout1 = `2017-03_CV_Vagni_Long.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 
 (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -232,7 +232,7 @@ LaTeX Font Info:    ... okay on input line 40.
 \everyMPtoPDFconversion=\toks16
 )
 \AtBeginShipoutBox=\box28
-Package hyperref Info: Link coloring OFF on input line 40.
+Package hyperref Info: Link coloring OFF on input line 13.
  (/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -241,125 +241,361 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count105
 )
-LaTeX Info: Redefining \ref on input line 40.
-LaTeX Info: Redefining \pageref on input line 40.
-LaTeX Info: Redefining \nameref on input line 40.
+LaTeX Info: Redefining \ref on input line 13.
+LaTeX Info: Redefining \pageref on input line 13.
+LaTeX Info: Redefining \nameref on input line 13.
 
 (./2017-03_CV_Vagni_Long.out) (./2017-03_CV_Vagni_Long.out)
 \@outlinefile=\write3
 \openout3 = `2017-03_CV_Vagni_Long.out'.
 
 
-Overfull \hbox (15.50134pt too wide) in paragraph at lines 53--55
+Overfull \hbox (15.50134pt too wide) in paragraph at lines 26--28
 []\OT1/cmr/m/n/12 https://www.sociology.ox.ac.uk/people/giacomo-vagni.html[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--55
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
 
  []
 
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ª in font cmr10!
+
+Overfull \hbox (12.53891pt too wide) in paragraph at lines 43--44
+[]\OT1/cmr/m/n/12 National In-sti-tu-te for De-mo-gra-phic Stu-dies (IN-ED), Fr
+an-ce. 
+ []
+
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 83.
+(babel)             in language  on input line 48.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 83.
+(babel)             in language  on input line 48.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 83.
+(babel)             in language  on input line 48.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 83.
+(babel)             in language  on input line 48.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 83.
+(babel)             in language  on input line 48.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 83.
+(babel)             in language  on input line 48.
 [1
 
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (2.45995pt too wide) in paragraph at lines 87--88
+Overfull \hbox (17.08284pt too wide) in paragraph at lines 55--58
+[]\OT1/cmr/m/n/10 Bolzman, C., & Va-g-ni, G. (2015). []Egalit^^Se des chan-ces?
+ Une com-pa-rai-son
+ []
+
+
+Overfull \hbox (2.45995pt too wide) in paragraph at lines 68--69
 []\OT1/cmr/m/n/12 R (\OT1/cmr/m/it/12 ex-pert\OT1/cmr/m/n/12 ), Rcpp, Py-thon (
 \OT1/cmr/m/it/12 in-ter-me-dia-te\OT1/cmr/m/n/12 ), C++ (\OT1/cmr/m/it/12 be-gi
 n-ner\OT1/cmr/m/n/12 ) 
  []
 
 
-Overfull \hbox (45.25874pt too wide) in paragraph at lines 89--93
+Overfull \hbox (45.25874pt too wide) in paragraph at lines 70--74
 []\OT1/cmr/m/n/12 Sequence Ana-ly-sis (\OT1/cmr/m/it/12 ad-van-ced\OT1/cmr/m/n/
 12 ), Clu-ste-ring Ana-ly-sis (\OT1/cmr/m/it/12 in-ter-me-dia-te\OT1/cmr/m/n/12
  ),
  []
 
 
-Overfull \hbox (17.54428pt too wide) in paragraph at lines 89--93
+Overfull \hbox (17.54428pt too wide) in paragraph at lines 70--74
 \OT1/cmr/m/n/12 Or-di-na-ry Least Squa-res (\OT1/cmr/m/it/12 in-ter-me-dia-te\O
 T1/cmr/m/n/12 ), Struc-tu-ral Equa-ti-ons
  []
 
 
-Overfull \hbox (16.2304pt too wide) in paragraph at lines 89--93
+Overfull \hbox (16.2304pt too wide) in paragraph at lines 70--74
 \OT1/cmr/m/n/12 Mo-del-ling (\OT1/cmr/m/it/12 in-ter-me-dia-te\OT1/cmr/m/n/12 )
 , Mul-ti-ple Cor-re-spon-dence Ana-ly-sis
  []
 
 
-Overfull \hbox (3.37724pt too wide) in paragraph at lines 89--93
+Overfull \hbox (3.37724pt too wide) in paragraph at lines 70--74
 \OT1/cmr/m/n/12 (\OT1/cmr/m/it/12 in-ter-me-dia-te\OT1/cmr/m/n/12 ), Net-work A
 na-ly-sis (\OT1/cmr/m/it/12 in-ter-me-dia-te/beginner\OT1/cmr/m/n/12 ) 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 94.
+(Font)              <12> on input line 75.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 94.
+(Font)              <8> on input line 75.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 94.
+(Font)              <6> on input line 75.
 
-Overfull \hbox (12.93889pt too wide) in paragraph at lines 104--105
+Overfull \hbox (12.93889pt too wide) in paragraph at lines 82--83
 \OT1/cmr/m/n/12 So-cio-lo-gi-cal As-so-cia-ti-on (ISA); RC-28; The Roy-al Sta-t
 i-sti-cal
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 110.
+
+Overfull \hbox (5.30971pt too wide) in paragraph at lines 86--87
+\OT1/cmr/m/n/12 Spou-se on En-joy-ment''. \OT1/cmr/m/it/12 Pop-Fest 2017\OT1/cm
+r/m/n/12 , 1-3 Ju-ne. Uni-ver-si-ty
+ []
+
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 110.
+(babel)             in language  on input line 87.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 110.
+(babel)             in language  on input line 87.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 110.
+(babel)             in language  on input line 87.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 110.
+(babel)             in language  on input line 87.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 110.
+(babel)             in language  on input line 87.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 110.
+(babel)             in language  on input line 87.
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 110.
+Overfull \hbox (11.15419pt too wide) in paragraph at lines 91--92
+\OT1/cmr/m/n/12 Ear-ly Pa-ren-tal Trans-mis-si-on of Cul-tu-ral and De-ve-lop-m
+en-tal
+ []
+
+
+Overfull \hbox (13.91805pt too wide) in paragraph at lines 91--92
+\OT1/cmr/m/n/12 Re-sources''. 4th of April. Na-tio-nal In-sti-tu-te for De-mo-g
+ra-phic
+ []
+
+
+Overfull \hbox (11.15419pt too wide) in paragraph at lines 93--94
+\OT1/cmr/m/n/12 Ear-ly Pa-ren-tal Trans-mis-si-on of Cul-tu-ral and De-ve-lop-m
+en-tal
+ []
+
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+
+Overfull \hbox (9.96373pt too wide) in paragraph at lines 97--99
+[]\OT1/cmr/m/n/12 ``Family ti-me and Stra-ti-fi-ca-ti-on''. \OT1/cmr/m/it/12 So
+-ci-al In-e-qua-li-ty Re-se-arch
+ []
+
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+
+Overfull \hbox (16.36278pt too wide) in paragraph at lines 101--103
+[]\OT1/cmr/m/n/12 ``Modelling Se-quence Ac-ti-vi-ties''. \OT1/cmr/m/it/12 NCRM 
+7th ES-RC Re-se-arch
+ []
+
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+
+Overfull \hbox (43.82329pt too wide) in paragraph at lines 105--107
+[]\OT1/cmr/m/n/12 ``Embodied Ca-pi-tal Ac-cu-mu-la-ti-on and Em-ploy-ment Tra-j
+ec-to-ries''.
+ []
+
+
+Overfull \hbox (11.5352pt too wide) in paragraph at lines 105--107
+\OT1/cmr/m/it/12 Ti-me Use in Bri-tain Con-fe-rence\OT1/cmr/m/n/12 , 9-10 No-ve
+m-ber. Uni-ver-si-ty
+ []
+
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+
+Overfull \hbox (8.92386pt too wide) in paragraph at lines 107--109
+[]\OT1/cmr/m/n/12 ``Time To-gether and Part-ner-ship Qua-li-ty''. \OT1/cmr/m/it
+/12 12th Con-fe-rence
+ []
+
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 111.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 111.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 111.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 111.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 111.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 111.
+[3]
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+
+Overfull \hbox (7.1902pt too wide) in paragraph at lines 111--113
+[]\OT1/cmr/m/n/12 ``Sharing Free Ti-me''. \OT1/cmr/m/it/12 36th IA-TUR Con-fe-r
+ence\OT1/cmr/m/n/12 , 5-7 Au-gust.
+ []
+
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no   in font cmr12!
+
+Overfull \hbox (6.8745pt too wide) in paragraph at lines 125--126
+[]\OT1/cmr/m/n/10 Vagni, G. (2017) ``From Cons-traints to Cul-ture. So-ci-al Cl
+ass Gra-di-ent
+ []
+
+
+Overfull \hbox (3.58284pt too wide) in paragraph at lines 128--129
+[]\OT1/cmr/m/n/10 Vagni, G., and Corn-well, B. (2017) ``Pat-terns of Tem-po-ral
+ Re-gu-la-ri-ty
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 137.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 137.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 137.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 137.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 137.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 137.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 137.
+[4]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 137.
  (./2017-03_CV_Vagni_Long.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 110.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 110.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 137.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 137.
 Package rerunfilecheck Info: File `2017-03_CV_Vagni_Long.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 110.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 137.
  ) 
 Here is how much of TeX's memory you used:
- 5618 strings out of 493117
- 83185 string characters out of 6135433
+ 5620 strings out of 493117
+ 83197 string characters out of 6135433
  175974 words of memory out of 5000000
  9051 multiletter control sequences out of 15000+600000
  7990 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,5n,23p,246b,467s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,5n,23p,259b,471s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
 /usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
 sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/
 local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/l
 ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on 2017-03_CV_Vagni_Long.pdf (2 pages, 88612 bytes).
+Output written on 2017-03_CV_Vagni_Long.pdf (4 pages, 104685 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
- 33 compressed objects within 1 object stream
- 3 named destinations out of 1000 (max. 500000)
+ 52 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
+ 5 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
