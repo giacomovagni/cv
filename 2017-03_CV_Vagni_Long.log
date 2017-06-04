@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.15)  4 JUN 2017 22:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.15)  4 JUN 2017 22:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -355,7 +355,7 @@ en-tal
 
 
 Overfull \hbox (13.91805pt too wide) in paragraph at lines 91--92
-\OT1/cmr/m/n/12 Re-sources''. 4th of April. Na-tio-nal In-sti-tu-te for De-mo-g
+\OT1/cmr/m/n/12 Re-sources'', 4th of April. Na-tio-nal In-sti-tu-te for De-mo-g
 ra-phic
  []
 
@@ -545,9 +545,9 @@ Missing character: There is no   in font cmr12!
 Missing character: There is no Â in font cmr12!
 Missing character: There is no   in font cmr12!
 
-Overfull \hbox (6.8745pt too wide) in paragraph at lines 125--126
-[]\OT1/cmr/m/n/10 Vagni, G. (2017) ``From Cons-traints to Cul-ture. So-ci-al Cl
-ass Gra-di-ent
+Overfull \hbox (19.74957pt too wide) in paragraph at lines 125--126
+[]\OT1/cmr/m/n/10 Vagni, G. (2017) ``From Cons-traints to Cul-ture. The So-ci-a
+l Stra-ti-fi-ca-ti-on
  []
 
 
@@ -592,7 +592,7 @@ Here is how much of TeX's memory you used:
 sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/
 local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/l
 ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on 2017-03_CV_Vagni_Long.pdf (4 pages, 104685 bytes).
+Output written on 2017-03_CV_Vagni_Long.pdf (4 pages, 105050 bytes).
 PDF statistics:
  52 PDF objects out of 1000 (max. 8388607)
  39 compressed objects within 1 object stream
