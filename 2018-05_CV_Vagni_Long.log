@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.3.21)  4 JUN 2018 15:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.3.21)  6 JUN 2018 11:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -284,120 +284,102 @@ Overfull \hbox (13.54433pt too wide) in paragraph at lines 52--53
  []
 
 
-Overfull \hbox (4.54076pt too wide) in paragraph at lines 56--57
-\OT1/cmr/m/n/12 Vla-se and B. Voi-cu (Eds.) \OT1/cmr/m/it/12 Gen-der, Fa-mi-ly,
- and Ad-ap-ta-ti-on
- []
-
-
-Overfull \hbox (2.45995pt too wide) in paragraph at lines 76--77
+Overfull \hbox (2.45995pt too wide) in paragraph at lines 78--79
 []\OT1/cmr/m/n/12 R (\OT1/cmr/m/it/12 ex-pert\OT1/cmr/m/n/12 ), Rcpp, Py-thon (
 \OT1/cmr/m/it/12 in-ter-me-dia-te\OT1/cmr/m/n/12 ), C++ (\OT1/cmr/m/it/12 be-gi
 n-ner\OT1/cmr/m/n/12 ) 
  []
 
 
-Overfull \hbox (45.25874pt too wide) in paragraph at lines 78--82
+Overfull \hbox (45.25874pt too wide) in paragraph at lines 80--84
 []\OT1/cmr/m/n/12 Sequence Ana-ly-sis (\OT1/cmr/m/it/12 ad-van-ced\OT1/cmr/m/n/
 12 ), Clu-ste-ring Ana-ly-sis (\OT1/cmr/m/it/12 in-ter-me-dia-te\OT1/cmr/m/n/12
  ),
  []
 
 
-Overfull \hbox (17.54428pt too wide) in paragraph at lines 78--82
+Overfull \hbox (17.54428pt too wide) in paragraph at lines 80--84
 \OT1/cmr/m/n/12 Or-di-na-ry Least Squa-res (\OT1/cmr/m/it/12 in-ter-me-dia-te\O
 T1/cmr/m/n/12 ), Struc-tu-ral Equa-ti-ons
  []
 
 
-Overfull \hbox (16.2304pt too wide) in paragraph at lines 78--82
+Overfull \hbox (16.2304pt too wide) in paragraph at lines 80--84
 \OT1/cmr/m/n/12 Mo-del-ling (\OT1/cmr/m/it/12 in-ter-me-dia-te\OT1/cmr/m/n/12 )
 , Mul-ti-ple Cor-re-spon-dence Ana-ly-sis
  []
 
 
-Overfull \hbox (3.37724pt too wide) in paragraph at lines 78--82
+Overfull \hbox (3.37724pt too wide) in paragraph at lines 80--84
 \OT1/cmr/m/n/12 (\OT1/cmr/m/it/12 in-ter-me-dia-te\OT1/cmr/m/n/12 ), Net-work A
 na-ly-sis (\OT1/cmr/m/it/12 in-ter-me-dia-te/beginner\OT1/cmr/m/n/12 ) 
  []
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 82.
+(babel)             in language  on input line 84.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 82.
+(babel)             in language  on input line 84.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 82.
+(babel)             in language  on input line 84.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 82.
+(babel)             in language  on input line 84.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 82.
+(babel)             in language  on input line 84.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 82.
+(babel)             in language  on input line 84.
 [2]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 83.
+(Font)              <12> on input line 85.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 83.
+(Font)              <8> on input line 85.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 83.
+(Font)              <6> on input line 85.
 
-Overfull \hbox (3.5126pt too wide) in paragraph at lines 97--98
+Overfull \hbox (3.5126pt too wide) in paragraph at lines 99--100
 \OT1/cmr/m/n/12 Part-ner-ship Qua-li-ty: an Em-pi-ri-cal As-sessment using Dia-
 ry
  []
 
 
-Overfull \hbox (5.45563pt too wide) in paragraph at lines 101--102
+Overfull \hbox (5.45563pt too wide) in paragraph at lines 103--104
 []\OT1/cmr/m/n/12 Vagni, G., and Sul-li-van, O. (2017) ``Cou-ple Work-schedules
 
  []
 
 
-Overfull \hbox (12.93889pt too wide) in paragraph at lines 107--109
+Overfull \hbox (12.93889pt too wide) in paragraph at lines 109--111
 \OT1/cmr/m/n/12 So-cio-lo-gi-cal As-so-cia-ti-on (ISA); RC-28; The Roy-al Sta-t
 i-sti-cal
  []
 
 
-Overfull \hbox (0.85847pt too wide) in paragraph at lines 107--109
+Overfull \hbox (0.85847pt too wide) in paragraph at lines 109--111
 \OT1/cmr/m/n/12 Re-se-arch (IA-TUR); Bri-tish So-cie-ty for Po-pu-la-ti-on Stu-
 dies
  []
 
 
-Overfull \hbox (32.40303pt too wide) in paragraph at lines 113--114
+Overfull \hbox (32.40303pt too wide) in paragraph at lines 115--116
 \OT1/cmr/m/n/12 of Pa-ren-tal Ti-me''. \OT1/cmr/m/it/12 RC 28 Con-fe-rence. In-
 ter-na-tio-nal So-cio-lo-gi-cal
  []
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 115.
+(babel)             in language  on input line 117.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 115.
+(babel)             in language  on input line 117.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 115.
+(babel)             in language  on input line 117.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 115.
+(babel)             in language  on input line 117.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 115.
+(babel)             in language  on input line 117.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 115.
+(babel)             in language  on input line 117.
 [3]
-Overfull \hbox (5.30971pt too wide) in paragraph at lines 115--116
+Overfull \hbox (5.30971pt too wide) in paragraph at lines 117--118
 \OT1/cmr/m/n/12 Spou-se on En-joy-ment''. \OT1/cmr/m/it/12 Pop-Fest 2017\OT1/cm
 r/m/n/12 , 1-3 Ju-ne. Uni-ver-si-ty
- []
-
-
-Overfull \hbox (11.15419pt too wide) in paragraph at lines 120--121
-\OT1/cmr/m/n/12 Ear-ly Pa-ren-tal Trans-mis-si-on of Cul-tu-ral and De-ve-lop-m
-en-tal
- []
-
-
-Overfull \hbox (13.91805pt too wide) in paragraph at lines 120--121
-\OT1/cmr/m/n/12 Re-sources'', 4th of April. Na-tio-nal In-sti-tu-te for De-mo-g
-ra-phic
  []
 
 
@@ -406,6 +388,18 @@ Overfull \hbox (11.15419pt too wide) in paragraph at lines 122--123
 en-tal
  []
 
+
+Overfull \hbox (13.91805pt too wide) in paragraph at lines 122--123
+\OT1/cmr/m/n/12 Re-sources'', 4th of April. Na-tio-nal In-sti-tu-te for De-mo-g
+ra-phic
+ []
+
+
+Overfull \hbox (11.15419pt too wide) in paragraph at lines 124--125
+\OT1/cmr/m/n/12 Ear-ly Pa-ren-tal Trans-mis-si-on of Cul-tu-ral and De-ve-lop-m
+en-tal
+ []
+
 Missing character: There is no Â in font cmr12!
 Missing character: There is no   in font cmr12!
 Missing character: There is no Â in font cmr12!
@@ -417,7 +411,7 @@ Missing character: There is no   in font cmr12!
 Missing character: There is no Â in font cmr12!
 Missing character: There is no   in font cmr12!
 
-Overfull \hbox (9.96373pt too wide) in paragraph at lines 126--128
+Overfull \hbox (9.96373pt too wide) in paragraph at lines 128--130
 []\OT1/cmr/m/n/12 ``Family ti-me and Stra-ti-fi-ca-ti-on''. \OT1/cmr/m/it/12 So
 -ci-al In-e-qua-li-ty Re-se-arch
  []
@@ -433,7 +427,7 @@ Missing character: There is no   in font cmr12!
 Missing character: There is no Â in font cmr12!
 Missing character: There is no   in font cmr12!
 
-Overfull \hbox (16.36278pt too wide) in paragraph at lines 130--132
+Overfull \hbox (16.36278pt too wide) in paragraph at lines 132--134
 []\OT1/cmr/m/n/12 ``Modelling Se-quence Ac-ti-vi-ties''. \OT1/cmr/m/it/12 NCRM 
 7th ES-RC Re-se-arch
  []
@@ -463,13 +457,13 @@ Missing character: There is no   in font cmr12!
 Missing character: There is no Â in font cmr12!
 Missing character: There is no   in font cmr12!
 
-Overfull \hbox (43.82329pt too wide) in paragraph at lines 134--136
+Overfull \hbox (43.82329pt too wide) in paragraph at lines 136--138
 []\OT1/cmr/m/n/12 ``Embodied Ca-pi-tal Ac-cu-mu-la-ti-on and Em-ploy-ment Tra-j
 ec-to-ries''.
  []
 
 
-Overfull \hbox (11.5352pt too wide) in paragraph at lines 134--136
+Overfull \hbox (11.5352pt too wide) in paragraph at lines 136--138
 \OT1/cmr/m/it/12 Ti-me Use in Bri-tain Con-fe-rence\OT1/cmr/m/n/12 , 9-10 No-ve
 m-ber. Uni-ver-si-ty
  []
@@ -493,7 +487,7 @@ Missing character: There is no   in font cmr12!
 Missing character: There is no Â in font cmr12!
 Missing character: There is no   in font cmr12!
 
-Overfull \hbox (8.92386pt too wide) in paragraph at lines 136--138
+Overfull \hbox (8.92386pt too wide) in paragraph at lines 138--140
 []\OT1/cmr/m/n/12 ``Time To-gether and Part-ner-ship Qua-li-ty''. \OT1/cmr/m/it
 /12 12th Con-fe-rence
  []
@@ -525,17 +519,17 @@ Missing character: There is no   in font cmr12!
 Missing character: There is no Â in font cmr12!
 Missing character: There is no   in font cmr12!
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 140.
+(babel)             in language  on input line 142.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 140.
+(babel)             in language  on input line 142.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 140.
+(babel)             in language  on input line 142.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 140.
+(babel)             in language  on input line 142.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 140.
+(babel)             in language  on input line 142.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 140.
+(babel)             in language  on input line 142.
 [4]
 Missing character: There is no Â in font cmr12!
 Missing character: There is no   in font cmr12!
@@ -566,7 +560,7 @@ Missing character: There is no   in font cmr12!
 Missing character: There is no Â in font cmr12!
 Missing character: There is no   in font cmr12!
 
-Overfull \hbox (7.1902pt too wide) in paragraph at lines 140--142
+Overfull \hbox (7.1902pt too wide) in paragraph at lines 142--144
 []\OT1/cmr/m/n/12 ``Sharing Free Ti-me''. \OT1/cmr/m/it/12 36th IA-TUR Con-fe-r
 ence\OT1/cmr/m/n/12 , 5-7 Au-gust.
  []
@@ -585,27 +579,27 @@ Missing character: There is no Â in font cmr12!
 Missing character: There is no   in font cmr12!
 Missing character: There is no Â in font cmr12!
 Missing character: There is no   in font cmr12!
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 150.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 152.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 150.
+(babel)             in language  on input line 152.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 150.
+(babel)             in language  on input line 152.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 150.
+(babel)             in language  on input line 152.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 150.
+(babel)             in language  on input line 152.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 150.
+(babel)             in language  on input line 152.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 150.
+(babel)             in language  on input line 152.
 [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 150.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 152.
  (./2018-05_CV_Vagni_Long.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 150.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 150.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 152.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 152.
 Package rerunfilecheck Info: File `2018-05_CV_Vagni_Long.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 150.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 152.
  ) 
 Here is how much of TeX's memory you used:
  5674 strings out of 492995
@@ -614,15 +608,15 @@ Here is how much of TeX's memory you used:
  9194 multiletter control sequences out of 15000+600000
  7644 words of font info for 27 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,5n,23p,379b,471s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,5n,23p,431b,471s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></us
 r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on 2018-05_CV_Vagni_Long.pdf (5 pages, 71359 bytes).
+Output written on 2018-05_CV_Vagni_Long.pdf (5 pages, 71327 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
- 38 compressed objects within 1 object stream
+ 53 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
  6 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
