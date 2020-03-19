@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.4)  19 MAR 2020 11:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.4)  19 MAR 2020 14:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -240,12 +240,7 @@ LaTeX Info: Redefining \nameref on input line 13.
 \openout3 = `CV-Vagni.out'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--26
-
- []
-
-
-Overfull \hbox (12.53891pt too wide) in paragraph at lines 41--42
+Overfull \hbox (12.53891pt too wide) in paragraph at lines 43--44
 []\OT1/cmr/m/n/12 National In-sti-tu-te for De-mo-gra-phic Stu-dies (IN-ED), Fr
 an-ce. 
  []
@@ -253,56 +248,50 @@ an-ce.
 [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (9.87004pt too wide) in paragraph at lines 54--55
+Overfull \hbox (9.87004pt too wide) in paragraph at lines 56--57
 []\OT1/cmr/bx/n/12 Vagni, G. \OT1/cmr/m/n/12 (2019). ``Fa-mi-ly Ti-me To-gether
 .'' In J. Gers-huny
  []
 
 
-Overfull \hbox (13.54433pt too wide) in paragraph at lines 56--57
+Overfull \hbox (13.54433pt too wide) in paragraph at lines 58--59
 \OT1/cmr/m/n/12 ac-ti-vi-ties across so-ci-al con-texts.'' \OT1/cmr/m/it/12 Pro
 -cee-dings of the Na-tio-nal
  []
 
 
-Overfull \hbox (1.46957pt too wide) in paragraph at lines 74--75
+Overfull \hbox (1.46957pt too wide) in paragraph at lines 76--77
 []\OT1/cmr/m/n/12 Vagni, G., and Wid-mer, E. ``Cou-ple Ti-me and Part-ner-ship
  []
 
 [2]
-Overfull \hbox (14.40971pt too wide) in paragraph at lines 85--86
-[]\OT1/cmr/m/n/12 Early Post-doc.Mobility (Swiss Na-tio-nal Science Foun-da-ti-
-on) 
- []
-
-
-Overfull \hbox (12.93889pt too wide) in paragraph at lines 95--97
+Overfull \hbox (12.93889pt too wide) in paragraph at lines 88--90
 \OT1/cmr/m/n/12 So-cio-lo-gi-cal As-so-cia-ti-on (ISA); RC-28; The Roy-al Sta-t
 i-sti-cal
  []
 
 
-Overfull \hbox (0.85847pt too wide) in paragraph at lines 95--97
+Overfull \hbox (0.85847pt too wide) in paragraph at lines 88--90
 \OT1/cmr/m/n/12 Re-se-arch (IA-TUR); Bri-tish So-cie-ty for Po-pu-la-ti-on Stu-
 dies
  []
 
 
-Overfull \hbox (2.45995pt too wide) in paragraph at lines 100--101
+Overfull \hbox (2.45995pt too wide) in paragraph at lines 93--94
 []\OT1/cmr/m/n/12 R (\OT1/cmr/m/it/12 ex-pert\OT1/cmr/m/n/12 ), Rcpp, Py-thon (
 \OT1/cmr/m/it/12 in-ter-me-dia-te\OT1/cmr/m/n/12 ), C++ (\OT1/cmr/m/it/12 be-gi
 n-ner\OT1/cmr/m/n/12 ) 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 111.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 105.
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 111.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 105.
  (./CV-Vagni.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 111.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 111.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 105.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 105.
 Package rerunfilecheck Info: File `CV-Vagni.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 111.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 105.
  ) 
 Here is how much of TeX's memory you used:
  5573 strings out of 492616
@@ -315,7 +304,7 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on CV-Vagni.pdf (3 pages, 59563 bytes).
+Output written on CV-Vagni.pdf (3 pages, 59209 bytes).
 PDF statistics:
  41 PDF objects out of 1000 (max. 8388607)
  32 compressed objects within 1 object stream

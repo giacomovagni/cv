@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.4)  19 MAR 2020 11:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.4)  19 MAR 2020 14:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**2020-04_CV-Vagni_Lond.tex
-(./2020-04_CV-Vagni_Lond.tex
+**2020-04_CV-Vagni_Short.tex
+(./2020-04_CV-Vagni_Short.tex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -191,8 +191,8 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \cvlabelskip=\skip45
 \cvlabelwidth=\skip46
 )
-(./2020-04_CV-Vagni_Lond.aux)
-\openout1 = `2020-04_CV-Vagni_Lond.aux'.
+(./2020-04_CV-Vagni_Short.aux)
+\openout1 = `2020-04_CV-Vagni_Short.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
@@ -237,17 +237,12 @@ LaTeX Info: Redefining \ref on input line 13.
 LaTeX Info: Redefining \pageref on input line 13.
 LaTeX Info: Redefining \nameref on input line 13.
 
-(./2020-04_CV-Vagni_Lond.out) (./2020-04_CV-Vagni_Lond.out)
+(./2020-04_CV-Vagni_Short.out) (./2020-04_CV-Vagni_Short.out)
 \@outlinefile=\write3
-\openout3 = `2020-04_CV-Vagni_Lond.out'.
+\openout3 = `2020-04_CV-Vagni_Short.out'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--26
-
- []
-
-
-Overfull \hbox (12.53891pt too wide) in paragraph at lines 41--42
+Overfull \hbox (12.53891pt too wide) in paragraph at lines 43--44
 []\OT1/cmr/m/n/12 National In-sti-tu-te for De-mo-gra-phic Stu-dies (IN-ED), Fr
 an-ce. 
  []
@@ -255,69 +250,64 @@ an-ce.
 [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (9.87004pt too wide) in paragraph at lines 54--55
+Overfull \hbox (9.87004pt too wide) in paragraph at lines 56--57
 []\OT1/cmr/bx/n/12 Vagni, G. \OT1/cmr/m/n/12 (2019). ``Fa-mi-ly Ti-me To-gether
 .'' In J. Gers-huny
  []
 
 
-Overfull \hbox (13.54433pt too wide) in paragraph at lines 56--57
+Overfull \hbox (13.54433pt too wide) in paragraph at lines 58--59
 \OT1/cmr/m/n/12 ac-ti-vi-ties across so-ci-al con-texts.'' \OT1/cmr/m/it/12 Pro
 -cee-dings of the Na-tio-nal
  []
 
 
-Overfull \hbox (1.46957pt too wide) in paragraph at lines 74--75
+Overfull \hbox (1.46957pt too wide) in paragraph at lines 76--77
 []\OT1/cmr/m/n/12 Vagni, G., and Wid-mer, E. ``Cou-ple Ti-me and Part-ner-ship
  []
 
 [2]
-Overfull \hbox (14.40971pt too wide) in paragraph at lines 85--86
-[]\OT1/cmr/m/n/12 Early Post-doc.Mobility (Swiss Na-tio-nal Science Foun-da-ti-
-on) 
- []
-
-
-Overfull \hbox (12.93889pt too wide) in paragraph at lines 95--97
+Overfull \hbox (12.93889pt too wide) in paragraph at lines 88--90
 \OT1/cmr/m/n/12 So-cio-lo-gi-cal As-so-cia-ti-on (ISA); RC-28; The Roy-al Sta-t
 i-sti-cal
  []
 
 
-Overfull \hbox (0.85847pt too wide) in paragraph at lines 95--97
+Overfull \hbox (0.85847pt too wide) in paragraph at lines 88--90
 \OT1/cmr/m/n/12 Re-se-arch (IA-TUR); Bri-tish So-cie-ty for Po-pu-la-ti-on Stu-
 dies
  []
 
 
-Overfull \hbox (2.45995pt too wide) in paragraph at lines 100--101
+Overfull \hbox (2.45995pt too wide) in paragraph at lines 93--94
 []\OT1/cmr/m/n/12 R (\OT1/cmr/m/it/12 ex-pert\OT1/cmr/m/n/12 ), Rcpp, Py-thon (
 \OT1/cmr/m/it/12 in-ter-me-dia-te\OT1/cmr/m/n/12 ), C++ (\OT1/cmr/m/it/12 be-gi
 n-ner\OT1/cmr/m/n/12 ) 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 111.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 105.
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 111.
- (./2020-04_CV-Vagni_Lond.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 111.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 111.
-Package rerunfilecheck Info: File `2020-04_CV-Vagni_Lond.out' has not changed.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 105.
+ (./2020-04_CV-Vagni_Short.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 105.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 105.
+Package rerunfilecheck Info: File `2020-04_CV-Vagni_Short.out' has not changed.
+
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 111.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 105.
  ) 
 Here is how much of TeX's memory you used:
  5573 strings out of 492616
- 82283 string characters out of 6129482
+ 82296 string characters out of 6129482
  185864 words of memory out of 5000000
  9470 multiletter control sequences out of 15000+600000
  5206 words of font info for 19 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,5n,23p,440b,479s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,5n,23p,441b,479s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on 2020-04_CV-Vagni_Lond.pdf (3 pages, 59563 bytes).
+Output written on 2020-04_CV-Vagni_Short.pdf (3 pages, 59209 bytes).
 PDF statistics:
  41 PDF objects out of 1000 (max. 8388607)
  32 compressed objects within 1 object stream
